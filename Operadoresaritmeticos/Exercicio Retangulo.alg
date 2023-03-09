@@ -1,8 +1,8 @@
-algoritmo "semnome"
-// Função : Calcular a area e perimetro de um retangulo
+algoritmo "retangulo"
+// FunÃ§Ã£o : Calcular a area e perimetro de um retangulo
 // Autor : Giulia P Filippini
 // Data : 09/03/2023
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 
 base, altura, resulA, resulP:real
@@ -20,7 +20,7 @@ leia(altura)
 escreval("Digite a base do retangulo")
 leia(base)
 
-// Seção de Comandos 
+// SeÃ§Ã£o de Comandos 
 resulA <- base*altura
 resulP <- 2*base+2*altura
 
