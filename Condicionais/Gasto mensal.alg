@@ -1,8 +1,8 @@
-algoritmo "Gasto mensal"
-// Função : Verificar salario
+algoritmo "Salario"
+// FunÃ§Ã£o : Verificar salario
 // Autor : Giulia Pontelli Filippini
 // Data : 18/05/2023
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 salario, gastos: real
 
