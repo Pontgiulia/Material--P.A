@@ -1,0 +1,105 @@
+<mxfile host="app.diagrams.net" modified="2023-05-25T18:46:54.707Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="bF7ehzUVpv7kSH0OmPK-" version="21.3.4" type="google">
+  <diagram name="Página-1" id="VOhV0U-QravvhNj2dNXN">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dLuLtopAgmNw7_jBv9vx-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="dLuLtopAgmNw7_jBv9vx-2" target="dLuLtopAgmNw7_jBv9vx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dLuLtopAgmNw7_jBv9vx-2" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontStyle=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="374" y="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dLuLtopAgmNw7_jBv9vx-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="dLuLtopAgmNw7_jBv9vx-4" target="dLuLtopAgmNw7_jBv9vx-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dLuLtopAgmNw7_jBv9vx-4" value="saldo, valor, opcão" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=3;fontStyle=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="342" y="180" width="144" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dLuLtopAgmNw7_jBv9vx-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="dLuLtopAgmNw7_jBv9vx-7" target="dLuLtopAgmNw7_jBv9vx-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLuLtopAgmNw7_jBv9vx-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="dLuLtopAgmNw7_jBv9vx-7" target="dLuLtopAgmNw7_jBv9vx-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLuLtopAgmNw7_jBv9vx-7" value="depositar ou sacar" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=3;fontStyle=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="362" y="280" width="104" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dLuLtopAgmNw7_jBv9vx-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.502;exitY=0.857;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="dLuLtopAgmNw7_jBv9vx-9" target="dLuLtopAgmNw7_jBv9vx-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLuLtopAgmNw7_jBv9vx-9" value="se depositar" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=3;fontStyle=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="190" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dLuLtopAgmNw7_jBv9vx-12" value="Fim" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=3;fontStyle=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="366" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dLuLtopAgmNw7_jBv9vx-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.507;exitY=0.856;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="dLuLtopAgmNw7_jBv9vx-14" target="dLuLtopAgmNw7_jBv9vx-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dLuLtopAgmNw7_jBv9vx-14" value="se sacar" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=3;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dLuLtopAgmNw7_jBv9vx-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="dLuLtopAgmNw7_jBv9vx-17" target="dLuLtopAgmNw7_jBv9vx-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLuLtopAgmNw7_jBv9vx-17" value="saldo+valor" style="whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=3;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dLuLtopAgmNw7_jBv9vx-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="dLuLtopAgmNw7_jBv9vx-19" target="dLuLtopAgmNw7_jBv9vx-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dLuLtopAgmNw7_jBv9vx-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;strokeWidth=3;" edge="1" parent="1" source="dLuLtopAgmNw7_jBv9vx-19" target="dLuLtopAgmNw7_jBv9vx-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dLuLtopAgmNw7_jBv9vx-19" value="saldo&amp;lt;0" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;strokeWidth=3;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dLuLtopAgmNw7_jBv9vx-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="dLuLtopAgmNw7_jBv9vx-21" target="dLuLtopAgmNw7_jBv9vx-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLuLtopAgmNw7_jBv9vx-21" value="saldo-valor" style="whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=3;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dLuLtopAgmNw7_jBv9vx-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="dLuLtopAgmNw7_jBv9vx-27" target="dLuLtopAgmNw7_jBv9vx-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLuLtopAgmNw7_jBv9vx-27" value="&quot;Seu saldo esta positivo em: R$, valor&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=3;fontStyle=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="480" y="650" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dLuLtopAgmNw7_jBv9vx-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="dLuLtopAgmNw7_jBv9vx-29" target="dLuLtopAgmNw7_jBv9vx-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLuLtopAgmNw7_jBv9vx-29" value="&quot;Seu saldo esta negativo em: R$, valor&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=3;fontStyle=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="242" y="650" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
