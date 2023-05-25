@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" modified="2023-05-25T19:38:50.836Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="rO3Wg6Bb5k382z5HFvgp" version="21.3.4" type="google">
+  <diagram name="Página-1" id="fOVZ_ckXzm0ZeseETYFQ">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0BggTVOyMFwmAlcbLkZL-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="0BggTVOyMFwmAlcbLkZL-2" target="0BggTVOyMFwmAlcbLkZL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0BggTVOyMFwmAlcbLkZL-2" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontStyle=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="374" y="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0BggTVOyMFwmAlcbLkZL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="0BggTVOyMFwmAlcbLkZL-4" target="0BggTVOyMFwmAlcbLkZL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0BggTVOyMFwmAlcbLkZL-4" value="mencao" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=3;fontStyle=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0BggTVOyMFwmAlcbLkZL-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="0BggTVOyMFwmAlcbLkZL-7" target="0BggTVOyMFwmAlcbLkZL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0BggTVOyMFwmAlcbLkZL-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0BggTVOyMFwmAlcbLkZL-7" target="0BggTVOyMFwmAlcbLkZL-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="701" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0BggTVOyMFwmAlcbLkZL-7" value="mencao=I ou mencao=R" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=3;fontStyle=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="366" y="290" width="96" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0BggTVOyMFwmAlcbLkZL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="0BggTVOyMFwmAlcbLkZL-9" target="0BggTVOyMFwmAlcbLkZL-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0BggTVOyMFwmAlcbLkZL-9" value="&quot;Sua mencao foi I ou R. Voce esta reprovado&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=3;fontStyle=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0BggTVOyMFwmAlcbLkZL-12" value="Fim" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=3;fontStyle=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="354" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0BggTVOyMFwmAlcbLkZL-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="0BggTVOyMFwmAlcbLkZL-13" target="0BggTVOyMFwmAlcbLkZL-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0BggTVOyMFwmAlcbLkZL-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="0BggTVOyMFwmAlcbLkZL-13" target="0BggTVOyMFwmAlcbLkZL-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0BggTVOyMFwmAlcbLkZL-13" value="mencao=B ou mencao=MB" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;strokeWidth=3;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="370" width="102" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0BggTVOyMFwmAlcbLkZL-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.618;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="0BggTVOyMFwmAlcbLkZL-18" target="0BggTVOyMFwmAlcbLkZL-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0BggTVOyMFwmAlcbLkZL-18" value="&quot;Sua mencao foi B ou MB. Voce esta aprovado&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=3;fontStyle=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="480" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0BggTVOyMFwmAlcbLkZL-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="0BggTVOyMFwmAlcbLkZL-22" target="0BggTVOyMFwmAlcbLkZL-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0BggTVOyMFwmAlcbLkZL-22" value="mencao&amp;lt;&amp;gt;I e mencao&amp;lt;&amp;gt;R e mencao&amp;lt;&amp;gt;B e mencao&amp;lt;&amp;gt;MB&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;strokeWidth=3;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="340" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0BggTVOyMFwmAlcbLkZL-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.98;entryY=0.459;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="0BggTVOyMFwmAlcbLkZL-24" target="0BggTVOyMFwmAlcbLkZL-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0BggTVOyMFwmAlcbLkZL-24" value="&quot;Mencao invalida&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=3;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="505" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
