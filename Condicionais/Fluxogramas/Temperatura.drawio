@@ -1,0 +1,75 @@
+<mxfile host="app.diagrams.net" modified="2023-05-25T19:19:06.478Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="GuBxuvK3kmwLLjbvjgRD" version="21.3.4" type="google">
+  <diagram name="Página-1" id="AOUkewLONl_6NufoEbi9">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Q_2FgVq0Q6YU_X4obZ_A-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="Q_2FgVq0Q6YU_X4obZ_A-3" target="Q_2FgVq0Q6YU_X4obZ_A-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_2FgVq0Q6YU_X4obZ_A-3" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontStyle=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="374" y="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_2FgVq0Q6YU_X4obZ_A-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="Q_2FgVq0Q6YU_X4obZ_A-5" target="Q_2FgVq0Q6YU_X4obZ_A-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_2FgVq0Q6YU_X4obZ_A-5" value="Temperatura" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=3;fontStyle=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_2FgVq0Q6YU_X4obZ_A-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="Q_2FgVq0Q6YU_X4obZ_A-8" target="Q_2FgVq0Q6YU_X4obZ_A-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_2FgVq0Q6YU_X4obZ_A-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="Q_2FgVq0Q6YU_X4obZ_A-8" target="Q_2FgVq0Q6YU_X4obZ_A-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_2FgVq0Q6YU_X4obZ_A-8" value="Temperatura&amp;lt;20" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=3;fontStyle=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="361" y="280" width="106" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_2FgVq0Q6YU_X4obZ_A-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontStyle=1;exitX=0.5;exitY=0.875;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Q_2FgVq0Q6YU_X4obZ_A-10" target="Q_2FgVq0Q6YU_X4obZ_A-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="510" />
+              <mxPoint x="414" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_2FgVq0Q6YU_X4obZ_A-10" value="&quot;A temperatura esta baixa&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=3;fontStyle=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_2FgVq0Q6YU_X4obZ_A-13" value="Fim" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=3;fontStyle=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="374" y="545" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_2FgVq0Q6YU_X4obZ_A-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="Q_2FgVq0Q6YU_X4obZ_A-14" target="Q_2FgVq0Q6YU_X4obZ_A-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_2FgVq0Q6YU_X4obZ_A-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="Q_2FgVq0Q6YU_X4obZ_A-14" target="Q_2FgVq0Q6YU_X4obZ_A-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_2FgVq0Q6YU_X4obZ_A-14" value="Temperatura&amp;lt;25" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;strokeWidth=3;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="400" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_2FgVq0Q6YU_X4obZ_A-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.464;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="Q_2FgVq0Q6YU_X4obZ_A-16" target="Q_2FgVq0Q6YU_X4obZ_A-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="455" />
+              <mxPoint x="430" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_2FgVq0Q6YU_X4obZ_A-16" value="&quot;A temperatura esta normal&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=3;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="467" y="415" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_2FgVq0Q6YU_X4obZ_A-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;exitX=0.499;exitY=0.864;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Q_2FgVq0Q6YU_X4obZ_A-18" target="Q_2FgVq0Q6YU_X4obZ_A-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_2FgVq0Q6YU_X4obZ_A-18" value="&quot;A temperatura esta alta&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=3;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="415" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
