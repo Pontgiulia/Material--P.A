@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" modified="2023-04-06T20:13:56.227Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="EcwiJplH_1oVMzKF6fWU" version="21.1.4" type="google">
+  <diagram name="Página-1" id="mKJ4z4-TZaW0ZwZecc2k">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t2e1XKg6kVJbGrGGN3ET-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=15;" edge="1" parent="1" source="t2e1XKg6kVJbGrGGN3ET-1" target="t2e1XKg6kVJbGrGGN3ET-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t2e1XKg6kVJbGrGGN3ET-1" value="inicio" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=15;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="354" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t2e1XKg6kVJbGrGGN3ET-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=15;" edge="1" parent="1" source="t2e1XKg6kVJbGrGGN3ET-2" target="t2e1XKg6kVJbGrGGN3ET-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t2e1XKg6kVJbGrGGN3ET-2" value="cotacao, conversão" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=3;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="312" y="140" width="204" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t2e1XKg6kVJbGrGGN3ET-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=15;" edge="1" parent="1" source="t2e1XKg6kVJbGrGGN3ET-4" target="t2e1XKg6kVJbGrGGN3ET-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t2e1XKg6kVJbGrGGN3ET-4" value="ValorC&amp;lt;- conversao/cotacao" style="whiteSpace=wrap;html=1;strokeWidth=3;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="312" y="240" width="204" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t2e1XKg6kVJbGrGGN3ET-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.825;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;fontSize=15;" edge="1" parent="1" source="t2e1XKg6kVJbGrGGN3ET-6" target="t2e1XKg6kVJbGrGGN3ET-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t2e1XKg6kVJbGrGGN3ET-6" value="ValorC" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=3;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="354" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t2e1XKg6kVJbGrGGN3ET-8" value="fim" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=15;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="354" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
